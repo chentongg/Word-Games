@@ -1,0 +1,4 @@
+﻿  WordPiece.cpp
+d:\word-games-main\word games\wordpiece.cpp(149): warning C4715: “LetterBallB::fall”: 不是所有的控件路径都返回值
+d:\word-games-main\word games\wordpiece.cpp(203): warning C4715: “WordPiece::check_click”: 不是所有的控件路径都返回值
+  Word Games.vcxproj -> D:\Word-Games-main\x64\Debug\Word Games.exe
